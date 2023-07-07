@@ -1,6 +1,9 @@
 # HR-ANALYTICS-DASHBOARD
 Interactive HR Analytics Dashboard Using PoweBI
 
+![PowerBI HR Dashboard Project](https://github.com/NikhilPanda01/HR-ANALYTICS-DASHBOARD/assets/114555468/30561a28-69bb-475a-a512-8e2f6032fd63)
+
+
 
 Hello Everyone,
 
@@ -37,4 +40,8 @@ I have used several charts and visualizations to gain insights into the employee
 ->Slicer/Filters Used: The dynamic dashboard utilizes slicers/filters, which enable users to customize the displayed data based on specific educational fields, thus facilitating interactive exploration and analysis centered around particular educational backgrounds
 
 Download data CSV files: https://lnkd.in/dTkeq823
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nikhilpanda01.github.io/My_portfolio.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-panda-b78255170/)
+
 
