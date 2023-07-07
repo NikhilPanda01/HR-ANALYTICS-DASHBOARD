@@ -3,7 +3,9 @@ Interactive HR Analytics Dashboard Using PoweBI
 
 ![PowerBI HR Dashboard Project](https://github.com/NikhilPanda01/HR-ANALYTICS-DASHBOARD/assets/114555468/30561a28-69bb-475a-a512-8e2f6032fd63)
 
-
+- Created by :- NIKHIL PANDA
+- Date :- 19-05-2023
+- Tool used:- PowerBI
 
 Hello Everyone,
 
